@@ -1,5 +1,7 @@
 Ex-1: Database Selection
 Choose the appropriate database type (SQL/NoSQL) and justify:
+
+
 1. Online banking system
 Ans: 
 Online Banking System — SQL Database
